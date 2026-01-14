@@ -32,7 +32,6 @@ This pie chart shows how time is distributed across different social media platf
 ## 📊 Bar Chart – Monthly User Activity
 ![Bar Chart](src/assets/BarChart.png)
 
-
 **Description:**
 The bar chart represents user activity across different months.
 
